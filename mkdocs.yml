@@ -2,7 +2,7 @@ site_name: Danske Meshtastic Brugere
 site_description: Flesskab for danske brugere af Meshtastic
 site_url: https://meshbrugere.dk
 site_author: Meshbrugere.dk
-repo_url: https://github.com/meshbrugere/meshbrugere.dk
+repo_url: https://github.com/danske-meshtastic-brugere/meshbrugere.dk
 repo_name: GitHub
 
 theme:
