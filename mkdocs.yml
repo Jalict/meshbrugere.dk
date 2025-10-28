@@ -1,5 +1,5 @@
 site_name: Danske Meshtastic Brugere
-site_description: Flesskab for danske brugere af Meshtastic
+site_description: Fællesskab for danske brugere af Meshtastic
 site_url: https://meshbrugere.dk
 site_author: Meshbrugere.dk
 repo_url: https://github.com/danske-meshtastic-brugere/meshbrugere.dk
@@ -12,6 +12,9 @@ theme:
 
 nav:
   - Forside: index.md
+  - Discord: discord.md
+  - Om: om.md
+  - Begynder Tips: tips.md
 
 extra:
   social:
